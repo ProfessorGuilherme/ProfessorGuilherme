@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ProfessorGuilherme
-- 👀 I’m interested in futebol
+- 👀 I’m interested in program and script
 - 🌱 I’m currently learning proagram
 - 💞️ I’m looking to collaborate on edit
 - 📫 How to reach me email guimaerick15@gmail.com
