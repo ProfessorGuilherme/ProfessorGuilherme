@@ -1,3 +1,10 @@
+### Hi there 👋
+
+
+**Professor Guilherme/Professor Guilherme** is a _special_. repository because its 'README.md' (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started
+
 - 👋 Hi, I’m @ProfessorGuilherme
 - 👀 I’m interested in program and script
 - 🌱 I’m currently learning proagram
