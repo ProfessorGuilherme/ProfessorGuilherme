@@ -6,11 +6,11 @@ You can click the Preview link to take a look at your changes.
 Here are some ideas to get you started
 
 - 👋 Hi, I’m @ProfessorGuilherme
-- 👀 I’m interested in program and script and [Alura](https://www.alura.com.br)
-- 🌱 I’m currently learning proagram
-- 💞️ I’m looking to collaborate on edit
-- 📫 How to reach me email guimaerick15@gmail.com
+- 👀 I'am interested in teaching chemistry to my students. Mainly nuclear chemistry. [Química](https://conic-semesp.org.br/anais/files/2014/trabalho-1000017505.pdf)
+- 🌱 I currently teach at the school E. E. Professor Antônio Ruy Cardoso.
+- 💞️ I try to contribute to chemistry and education about nuclear energy.
+- 📫 How to reach, me email guimaerick15@gmail.com
 - 😄 Pronouns: Gui
-- ⚡ Fun fact: teatcher of the chemistry
+- ⚡ Fun fact: I am also a veterinary nurse
 
-![](https://media1.tenor.com/m/mCiM7CmGGI4AAAAC/naruto.gif)
+![][(https://tenor.com/pt-BR/view/juggling-homer-simpson-plutonium-dangerous-loop-gif-10578435504419704425)]
